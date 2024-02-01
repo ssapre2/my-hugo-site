@@ -1,0 +1,6 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "qubt"]
+	path = qubt
+	url = https://github.com/chrede88/qubt.git
