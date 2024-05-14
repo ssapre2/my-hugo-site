@@ -1,4 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ssapre2.github.io/my-hugo-site/'
 languageCode = 'en-us'
 title = 'Sameer Sapre'
 theme = 'qubt'
+
+[params]
+  subtitle = 'My blog'
+  [params.contact]
+    email = 'sameer.sapre16@gmail.com'
+
